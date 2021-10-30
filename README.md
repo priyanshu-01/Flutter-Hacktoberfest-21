@@ -26,6 +26,7 @@ This application is developed to learn Flutter. Different widgets used in flutte
   
 
 
-## Authors
+## Author
 - [Priyanshu agaral](https://github.com/priyanshu-01)
-
+## Co-author
+- [Yash Joshi](https://github.com/yashjoshi24)
